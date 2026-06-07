@@ -1,0 +1,6 @@
+{
+  "name": "Scratch XI Game",
+  "description": "An immersive adventure game with atmospheric sound layers, retro visuals, and a compelling branching choice ending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
